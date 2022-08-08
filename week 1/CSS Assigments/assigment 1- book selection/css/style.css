@@ -1,0 +1,29 @@
+body { /* sayfalar icin background color ayarlandi */
+    background-color: #F5EEDC;
+}
+.booksName { /* kitaplar icin class olusturuldu */
+    color: #DD4A48; /* yazi rengi */
+    font-size: 24px; /* yazi boyutu */
+    text-align: center; /* yazi ortalandı */
+    font-family: Georgia, 'Times New Roman', Times, serif; /* yazi tipi secildi */
+}
+
+.booksInformation { /* kitaplar hakkindaki kismi icin class olusturuldu */
+    color: #2D4263;
+    font-size: 15px;
+    font-style: italic; /* yazi italic yapildi */
+    text-align: justify; /* satirdaki diger yazilara gore hizalandi*/
+    margin-left: 40px;
+    margin-right: 40px; /* sayfanin sag ve solundan esit bosluk verildi */
+}
+
+.images { /* gorseller icin class olusturuldu */
+    display: block;
+    margin-left: auto; /* sayfanin ortasında olmasi icin left-right auto yapildi */
+    margin-right: auto;
+    width: 12%; /* genislik % olarak ayarlandi */
+}
+
+.headerColor { /* header icin class olusturuldu */
+    color: #4F091D;
+}

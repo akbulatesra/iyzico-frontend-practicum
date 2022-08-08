@@ -1,0 +1,58 @@
+
+p {
+    margin: 0;
+}
+
+/* google logo kismi icin kullanildi*/
+.box {
+    width: 1250px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* ana yapi icin kullanildi*/
+.container {
+    width: 1250px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+/* arama butonu kismi icin kullanıldi*/
+.top {
+    background-color: rgb(233, 233, 233);
+}
+
+/*searchers kismi icin kullanildi*/
+.small-one {
+    background-color: #7ce5da;
+    float: left;
+    width: 39.7%;
+    margin-right: 0.3%;
+    margin-top: 0.3%;
+    height: 100px;
+}
+
+/*google siteler kismi icin kullanildi*/
+.small-two {
+    background-color: #71ccc2;
+    float: left;
+    width: 20%;
+    margin-top: 0.3%;
+    height: 100px;
+}
+
+/*bulten kismi icin kullanildi*/
+.small-three {
+    background-color: #62b3aa;
+    float: left;
+    width: 39.7%;
+    margin-left: 0.3%;
+    margin-top: 0.3%;
+    height: 100px;
+}
+
+/* isim hakki kismi icin kullanildi*/
+.last {
+    width: 1250px;
+    padding-top: 9%;
+}
